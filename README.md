@@ -32,7 +32,12 @@ pip install SpeechRecognition pyaudio
 
 
 Note: pyaudio may require system-specific installation.
+
+
 For Windows:
 
+
 pip install pipwin
+
+
 pipwin install pyaudio
